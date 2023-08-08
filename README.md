@@ -1,4 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=30A7DC&center=true&width=435&lines=Hi+%2C+I'm+Tushima+👋;Hi+%2C+I'm+Fernando+Moran+👋" alt="Typing SVG" /></a>
 <!--
 **Tushima437/Tushima437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
